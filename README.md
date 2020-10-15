@@ -1,6 +1,6 @@
 # temaWade
 
-Setup:
+Setup: </br>
 pip install -U pytest </br>
 pip install requests </br>
 download and install mysql shell from here : https://dev.mysql.com/downloads/shell/ </br>
